@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.Arkodeitv" name="Arkodei TV" version="1.0" provider-name="Arkodei">
+	<extension point="xbmc.addon.repository" name="Arkodei">
+		<info compressed="false">http://www.arkodeitv.com/addons.xml</info>
+		<checksum>http://www.arkodeitv.com/addons.xml.md5</checksum>
+		<datadir zip="true">http://www.arkodeitv.com/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Welcome to the Arkodei TV Repository where you will find wizards for all Arkodei builds</summary>
+		<description>Join the community</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
